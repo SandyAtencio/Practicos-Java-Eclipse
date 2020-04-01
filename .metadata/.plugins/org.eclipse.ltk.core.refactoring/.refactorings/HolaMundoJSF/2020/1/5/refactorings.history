@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sandy.beans&apos; to &apos;com.configuraciones.beans&apos;&#x0D;&#x0A;- Original project: &apos;HolaMundoJSF&apos;&#x0D;&#x0A;- Original element: &apos;HolaMundoJSF/src/com.sandy.beans&apos;&#x0D;&#x0A;- Renamed element: &apos;HolaMundoJSF/src/com.configuraciones.beans&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sandy.beans&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.sandy.beans" name="com.configuraciones.beans" qualified="false" references="true" stamp="1580160849356" textual="false" version="1.0"/>
+</session>

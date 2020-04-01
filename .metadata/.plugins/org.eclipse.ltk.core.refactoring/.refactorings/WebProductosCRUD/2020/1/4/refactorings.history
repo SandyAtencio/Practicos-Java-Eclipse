@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;insertaProducto.jsp&apos; to &apos;insertaProducto.jsp&apos;&#x0D;&#x0A;- Original project: &apos;WebProductosCRUD&apos;&#x0D;&#x0A;- Destination element: &apos;insertaProducto.jsp&apos;&#x0D;&#x0A;- Original element: &apos;insertaProducto.jsp&apos;" description="Copy file" element1="WebContent/insertaProducto.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1579816503478" target="/WebProductosCRUD/WebContent/insertaProducto.jsp" units="0" version="1.0"/>
+</session>

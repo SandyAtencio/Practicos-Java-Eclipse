@@ -1,0 +1,15 @@
+<Context>
+
+	<Resource name="jdbc/Productos" auth="Container" type="javax.sql.DataSource"
+		
+		maxActive ="15" maxIdle ="3" maxWait ="5000" 
+		
+		username ="system" password ="2406"
+		
+		diverClassName ="oracle.jdbc.driver.OracleDriver"
+		
+		url = "jdbc:oracle:thin:@localhost:1521:XE">
+	
+	</Resource>
+
+</Context>

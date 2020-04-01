@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<Context>
+
+
+	<Resource name="jdbc/Productos" auth="Container" type="javax.sql.DataSource"
+			maxActive="15" maxIdle="3" maxWait="5000"
+			username="system" password="2406"
+			driverClassName="oracle.jdbc.driver.OracleDriver"
+			url ="jdbc:oracle:thin:@127.0.0.1:1521:XE">
+	</Resource>
+
+
+</Context>

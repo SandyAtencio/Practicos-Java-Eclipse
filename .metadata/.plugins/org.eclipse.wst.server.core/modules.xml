@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:PrimerosPasosJSP" serverId="GlassFish 5 [domain1]"/>
+  <module moduleId="org.eclipse.jst.jee.server:PrimerosPasosServlets" serverId="GlassFish 5 [domain1]"/>
+  <module moduleId="org.eclipse.jst.jee.server:PrimerosServlets" serverId="GlassFish 5 [domain1]"/>
+  <module moduleId="org.eclipse.jst.jee.server:WebDeProductoCRUD" serverId="GlassFish 5 [domain1]"/>
+</modules>

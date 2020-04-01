@@ -1,0 +1,25 @@
+INDEX VERSION 1.131
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\97806706.index
+\WebProductosCRUD\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\838954899.index
+\prueba\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2232608110.index
+\Conexion\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3849145664.index
+\JSF\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2674155312.index
+\probando\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1492033291.index
+\PrimerosPasosJSP\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2759995466.index
+\ConexionGlassFish\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1964083485.index
+\HolaMundoJS\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1716707838.index
+\PrimerosServlets\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\624650128.index
+\ConexionNormal\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1306705362.index
+\PrimerosPasosServlets\src
+C:\Users\satencioh\Desktop\JavaEclipse\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3945146568.index
+\ProyectoJSF\src
